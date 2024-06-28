@@ -1,5 +1,3 @@
-# Deepfake-Detection---BE-PROJECT
-
 # Deepfake Detection System
 
 ## Overview
@@ -72,11 +70,4 @@ This project implements a deepfake detection system using PyTorch for training t
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to customize this README further to better fit your specific project details and preferences.
+This project is licensed under the MIT License.
