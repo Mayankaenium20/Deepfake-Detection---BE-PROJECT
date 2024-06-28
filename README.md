@@ -26,7 +26,8 @@ This project implements a deepfake detection system using PyTorch for training t
      ```sh
     i. Create a folder named 'models' under the Django Application folder.
    ii. Download and add the saved models from the following link into that folder.
-     https://drive.google.com/drive/folders/1KElrpmLrTpV7hQwyxu6eZBZ0DoyROHGR?usp=sharing
+
+     "https://drive.google.com/drive/folders/1KElrpmLrTpV7hQwyxu6eZBZ0DoyROHGR?usp=sharing"
     ```
 
 2. **Create a virtual environment**:
