@@ -74,5 +74,10 @@ This project implements a deepfake detection system using PyTorch for training t
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Create a new Pull Request.
 
+##Contributors
+1. Yash Nande
+2. Siddhant Misal
+3. Mayuresh Chowugule
+   
 ## License
 This project is licensed under the MIT License.
