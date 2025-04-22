@@ -82,4 +82,4 @@ This project implements a deepfake detection system using PyTorch for training t
 3. Mayuresh Chowugule
    
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
